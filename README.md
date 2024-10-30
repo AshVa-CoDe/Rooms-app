@@ -1,9 +1,6 @@
 
 Studybudy
-Bienvenido a Studybudy, una aplicación diseñada 
-para facilitar la creación y gestión de salas de estudio. Esta 
-aplicación utiliza tecnologías como Python, JavaScript, Django, SQLite y
- una API REST para proporcionar una experiencia fluida y eficiente.
+Bienvenido a Studybudy, una aplicación diseñada para facilitar la creación y gestión de salas de estudio. Esta aplicación utiliza tecnologías como Python, JavaScript, Django, SQLite y una API REST para proporcionar una experiencia fluida y eficiente.
 
  
 Características
