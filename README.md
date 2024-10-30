@@ -1,3 +1,4 @@
+
 Studybudy
 Bienvenido a Studybudy, una aplicación diseñada 
 para facilitar la creación y gestión de salas de estudio. Esta 
@@ -6,6 +7,7 @@ aplicación utiliza tecnologías como Python, JavaScript, Django, SQLite y
 
  
 Características
+
 Crear y gestionar salas de estudio.
 Registro de usuarios y autenticación.
 Interfaz amigable para usuarios.
@@ -13,6 +15,7 @@ API REST para interacción con el backend.
 Almacenamiento de datos en SQLite.
 
 Tecnologías
+
 Python: Lenguaje de programación utilizado en el backend.
 Django: Framework web que simplifica el desarrollo del backend.
 JavaScript: Lenguaje de programación para la lógica del cliente.
